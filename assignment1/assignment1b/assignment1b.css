@@ -1,0 +1,37 @@
+/* assignment1b */
+
+.tab{text-indent: 50px;}
+
+body {
+	font: 75% georgia, sans-serif;
+	background: #fff url(bck2.jpg) no-repeat top left;
+	padding: 0 0 0 400;
+	/*background-position: 175px 90px;*/
+}
+p {
+	text-align: justify;
+}
+h1 {
+	font: italic normal 1.4em georgia, sans-serif;
+	color: #7D775C;
+}
+
+.page-wrapper {
+	background: url(bck.jpg) no-repeat top left;
+	padding: 0 1024px 0 175px;
+	margin: 0;
+	position: relative;
+}
+
+.sidebar .wrapper {
+	font: 10px verdana, sans-serif;
+	padding: 10px;
+	margin-top: 150px;
+	width: 130px;
+}
+/*div {
+	-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-count: 3;
+	background: url("bck.jpg"), url("title2.jpg"), url("bck2.jpg"), 
+}*/

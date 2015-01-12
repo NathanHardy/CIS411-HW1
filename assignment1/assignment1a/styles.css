@@ -1,0 +1,27 @@
+/* styles */
+
+/* Contains style attributes for the following tags using
+the external stylesheet approach: body, p, h1, h2, pre. */
+
+body {
+	background-color: purple;
+}
+
+p {
+	font-family: "Comic Sans MS";
+	font-size: 18px;
+}
+
+h1 {
+	color: green;
+	text-align: center-left;
+}
+
+h2 {
+	color: lime;
+	text-align: center;
+}
+
+pre {
+	font-family: "Lucida Console";
+}
